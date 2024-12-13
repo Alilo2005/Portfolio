@@ -41,7 +41,7 @@ export default function Navbar() {
         </div>
         {/* Center Section (Logo) */}
         <div className="flex justify-center items-center mx-auto">
-  <Image src="/logo.svg" alt="Logo" width={200} height={75} />
+  <Image src="/logo.svg" alt="Logo" width={175} height={75} />
 </div>
         {/* Right Section (Navigation Links) */}
         <div className="flex items-center space-x-6 ml-auto">
